@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jumawekesa.netlify.app/sitemap.xml
